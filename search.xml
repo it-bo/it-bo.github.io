@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[kafka知识-基础篇]]></title>
+      <url>%2F2017%2F02%2F13%2Fkafka%2Fbase%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Tagcloud]]></title>
+      <url>%2F2017%2F02%2F13%2Fkafka%2F</url>
+      <content type="text"><![CDATA[kafka消息服务大纲中间件的资料整理准备从kafka框架开始，从消息服务接手以来也遇到过不少的坑，从坑中爬起来，慢慢的学习积累。kafka相关知识主要分为一下四篇内容进行阐述： 基础篇：kafka框架基础知识讲解，这篇内容网上一搜一麻袋的，写这篇的用意帮助新接触kafka的初学者了解kafka框架，顺便做当做资源库使用 优化篇：通过了解kafka基础知识以及集群搭建，开始进入小步快跑阶段，本篇主要介绍kafka高级特性以及服务端优化等方面知识 提高篇：在了解kafka高阶特性之后相信大家已经掌握了kafka这个框架的使用原理，接下来进入知识沉淀阶段，本篇将通过问题思考进行kafka内核源码解析，进行更深入的了解kafka这个框架。 实战篇：消息服务源码讲解，所涉及到如何通过低版本模式消费数据(当然，你使用的版本高于0.8版本可以忽略)、如何通过topic模式来合理利用topic资源、如何整体监控kafka消息服务等等 四篇内容的初稿大致已经完成，其中基础篇和优化篇待定稿后除非版本有较大的调整，一般不会更新这两篇的内容。后两篇将基于kafka-0.8版本进行介绍，后续更新会相对平凡。]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[github博客的第一天]]></title>
+      <url>%2F2017%2F01%2F23%2Ffirst-day%2F</url>
+      <content type="text"><![CDATA[泡坛多年，一直没有时间整理自己的学习笔记。今年下定决心开始写写博客，只为自己做个技术沉淀。 在博客框架选材上折腾了几天，今天终于在github上把博客搭建好了。特此纪念一下！]]></content>
+    </entry>
+
+    
+  
+  
+</search>
